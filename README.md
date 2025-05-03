@@ -33,8 +33,8 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/your-username/docker-flask-nginx-demo.git
-cd docker-flask-nginx-demo
+git clone https://github.com/zhang-zimin/docker.git
+cd docker
 ```
 
 2. 构建并启动服务：
